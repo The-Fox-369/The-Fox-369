@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm 
+I'm Nubaid Rashid a good designer in Figma and Spline and a great dev (no react, svelte please). I'm 10-years-old
 <a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=default&r=7cy" width="356" alt="The Fox's Dev Card"/></a>
 <a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=wide&r=7cy" width="652" alt="The Fox's Dev Card"/></a>
