@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **The-Fox-369/The-Fox-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm 
+<a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=default&r=7cy" width="356" alt="The Fox's Dev Card"/></a>
+<a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=wide&r=7cy" width="652" alt="The Fox's Dev Card"/></a>
