@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nubaid Rashid, a 11-year-old designer and developer who excels at Figma and Spline.
+I'm Nubaid Rashid, an 11-year-old designer and developer who excels at Figma and Spline.
 
 <a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=default&r=7cy" width="356" alt="The Fox's Dev Card"/></a>
 
