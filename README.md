@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 I'm The Fox, an 11-year-old designer and developer who excels at Figma and Spline.
 
-<a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=default&r=7cy" width="356" alt="The Fox's Dev Card"/></a>
+<br />
 
 <a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=wide&r=7cy" width="652" alt="The Fox's Dev Card"/></a>
